@@ -1,0 +1,12 @@
+stm32l1xx_it.c:61:6:NMI_Handler	0	static
+stm32l1xx_it.c:70:6:HardFault_Handler	0	static
+stm32l1xx_it.c:81:6:MemManage_Handler	0	static
+stm32l1xx_it.c:92:6:BusFault_Handler	0	static
+stm32l1xx_it.c:103:6:UsageFault_Handler	0	static
+stm32l1xx_it.c:114:6:SVC_Handler	0	static
+stm32l1xx_it.c:125:6:DebugMon_Handler	0	static
+stm32l1xx_it.c:136:6:PendSV_Handler	0	static
+stm32l1xx_it.c:147:6:SysTick_Handler	0	static
+stm32l1xx_it.c:161:6:UserButtonHandler	0	static
+stm32l1xx_it.c:181:6:EXTI0_IRQHandler	8	static,ignoring_inline_asm
+stm32l1xx_it.c:201:6:RTC_WKUP_IRQHandler	8	static

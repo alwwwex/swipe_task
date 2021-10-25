@@ -1,0 +1,5 @@
+tsl_user.c:231:6:TSL_user_Init	8	static
+tsl_user.c:250:19:TSL_user_Action	16	static
+tsl_user.c:321:6:ProcessSwipe	56	static
+tsl_user.c:449:6:TSL_user_InitGPIOs	0	static
+tsl_user.c:462:6:TSL_user_SetThresholds	0	static
